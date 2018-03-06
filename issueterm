@@ -1,0 +1,17 @@
+Lazyread auto-scrolls files or command output to the screen.
+
+It features different scroll modes, configurable scroll speed and colors, the ability to pause, the ability to search, and more. It can render text, HTML, PDF, gzip, tar, zip, ar, bzip2, MS-Word, nroff (man pages), binary executables, directories, .deb, .so, .rpm, piped output from other programs, and more.
+
+esta issue esta relacionada de algum modo com
+
+#2074
+#372
+#266
+
+http://lazyread.sourceforge.net/
+
+https://github.com/wofr06/lesspipe
+
+
+printscreen com fbless em execucao
+com lesspipe em execucao
